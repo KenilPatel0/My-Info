@@ -38,7 +38,7 @@ I enjoy turning ideas and designs into polished applications and exploring how *
 
 I’ve also contributed to **open-source projects**, including **Ember**, gaining experience working with existing codebases and collaborative development.
 
-🔗 [Ember.js](https://github.com/emberjs/ember.js)
+🔗 [Ember.js](https://github.com/KenilPatel0/Ember)
 
 ---
 
